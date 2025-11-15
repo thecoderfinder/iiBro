@@ -2,9 +2,10 @@
 
 # iiBro
 
-- It will **NOT FUNCTION** on standard desktop, mobile, or non-VR setups.
-- Attempting to run outside of VR may cause errors, crashes, or unexpected behavior.
-- Ensure your VR headset and compatible software are active before use.
+
+
+
+
 
 ``Download``: https://github.com/thecoderfinder/iiBro/releases/tag/Gorillatag
 
