@@ -1,0 +1,1 @@
+[BAD INSTALL] bad_license.txt - Simulated bad installation file 
